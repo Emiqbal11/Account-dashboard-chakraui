@@ -1,4 +1,4 @@
-Live url :accounting-dashboard.netlify.app
+Live url : https://accounting-dashboard.netlify.app/
 
 # Dashboard + Accounting + Chakra UI
 

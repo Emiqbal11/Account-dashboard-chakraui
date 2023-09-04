@@ -72,7 +72,7 @@ export default function Dashboard() {
   return (
     <Box maxW="8xl" mx={"auto"} pt={5} px={{ base: 2, sm: 12, md: 17 }}>
       <Menu>
-        <MenuButton as={Button} rightIcon={<ChevronDownIcon />} bg="green.400">
+        <MenuButton as={Button} rightIcon={<ChevronDownIcon />} bg="#3eed87">
           Last 14 days
         </MenuButton>
         <MenuList>

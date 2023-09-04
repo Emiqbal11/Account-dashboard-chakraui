@@ -39,7 +39,7 @@ const PaymentMethod = () => {
           <CardFooter>
             <Button
               ml={"auto"}
-              bg={"green.400"}
+              bg="#44c87b"
               color={"white"}
               py={6}
               px={6}
@@ -66,7 +66,7 @@ const PaymentMethod = () => {
           <CardFooter>
             <Button
               ml={"auto"}
-              bg={"green.400"}
+              bg="#44c87b"
               color={"white"}
               py={6}
               px={6}

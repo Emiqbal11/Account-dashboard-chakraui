@@ -93,7 +93,7 @@ const AddNewPaymentMethod = ({ isOpen, onOpen, onClose }) => {
           </Button>
           <Button
             mr={"3"}
-            bg={"green.400"}
+            bg="#3eed87"
             color={"white"}
             py={6}
             px={6}

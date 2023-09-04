@@ -40,7 +40,7 @@ const Invoice = () => {
           >
             <Text>{month}</Text>
             <Button
-              bg="#36e47f"
+              bg="#50c782"
               color="white"
               variant="solid"
               rounded="full"

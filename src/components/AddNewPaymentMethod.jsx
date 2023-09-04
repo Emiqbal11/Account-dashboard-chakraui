@@ -80,7 +80,7 @@ const AddNewPaymentMethod = ({ isOpen, onOpen, onClose }) => {
         <ModalFooter>
           <Button
             mr={"3"}
-            bg={"red.500"}
+            bg="#3eed87"
             color={"white"}
             py={6}
             px={6}
@@ -93,7 +93,7 @@ const AddNewPaymentMethod = ({ isOpen, onOpen, onClose }) => {
           </Button>
           <Button
             mr={"3"}
-            bg="#3eed87"
+            bg={"#50c782"}
             color={"white"}
             py={6}
             px={6}
